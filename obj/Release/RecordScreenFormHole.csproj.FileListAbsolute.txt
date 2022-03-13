@@ -1,0 +1,15 @@
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\bin\Release\RecordScreenFormHole.exe.config
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\bin\Release\RecordScreenFormHole.exe
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\bin\Release\RecordScreenFormHole.pdb
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\bin\Release\AForge.Video.VFW.dll
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\bin\Release\AForge.Video.dll
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\bin\Release\AForge.dll
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\obj\Release\RecordScreenFormHole.csproj.AssemblyReference.cache
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\obj\Release\RecordScreenFormHole.csproj.SuggestedBindingRedirects.cache
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\obj\Release\RecordScreenFormHole.Form1.resources
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\obj\Release\RecordScreenFormHole.Properties.Resources.resources
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\obj\Release\RecordScreenFormHole.csproj.GenerateResource.cache
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\obj\Release\RecordScreenFormHole.csproj.CoreCompileInputs.cache
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\obj\Release\RecordScreenFormHole.csproj.CopyComplete
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\obj\Release\RecordScreenFormHole.exe
+C:\Users\kj\Desktop\新しいフォルダー (3)\RecordScreenFormHole\obj\Release\RecordScreenFormHole.pdb

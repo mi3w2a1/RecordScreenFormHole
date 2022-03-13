@@ -1,0 +1,15 @@
+Z:\暫定プロジェクト\____WindowsFormsApp9\bin\Debug\AForge.Video.VFW.dll
+Z:\暫定プロジェクト\____WindowsFormsApp9\obj\Debug\____WindowsFormsApp9.csproj.AssemblyReference.cache
+Z:\暫定プロジェクト\____WindowsFormsApp9\obj\Debug\____WindowsFormsApp9.csproj.SuggestedBindingRedirects.cache
+Z:\暫定プロジェクト\____WindowsFormsApp9\obj\Debug\____WindowsFormsApp9.csproj.GenerateResource.cache
+Z:\暫定プロジェクト\____WindowsFormsApp9\obj\Debug\____WindowsFormsApp9.csproj.CoreCompileInputs.cache
+Z:\暫定プロジェクト\____WindowsFormsApp9\obj\Debug\____WindowsFormsApp9.csproj.CopyComplete
+Z:\暫定プロジェクト\____WindowsFormsApp9\bin\Debug\AForge.Video.dll
+Z:\暫定プロジェクト\____WindowsFormsApp9\bin\Debug\AForge.dll
+Z:\暫定プロジェクト\____WindowsFormsApp9\obj\Debug\RecordScreenFormHole.Form1.resources
+Z:\暫定プロジェクト\____WindowsFormsApp9\bin\Debug\RecordScreenFormHole.exe.config
+Z:\暫定プロジェクト\____WindowsFormsApp9\bin\Debug\RecordScreenFormHole.exe
+Z:\暫定プロジェクト\____WindowsFormsApp9\bin\Debug\RecordScreenFormHole.pdb
+Z:\暫定プロジェクト\____WindowsFormsApp9\obj\Debug\RecordScreenFormHole.Properties.Resources.resources
+Z:\暫定プロジェクト\____WindowsFormsApp9\obj\Debug\RecordScreenFormHole.exe
+Z:\暫定プロジェクト\____WindowsFormsApp9\obj\Debug\RecordScreenFormHole.pdb
